@@ -13,6 +13,7 @@ So, After that the further process is divided into 5 main parts ….that created
 3.	Switching Letter
 4.	Replace Letter
 5.	Insert new Letter
+
 To do Lemmatization we have used pattern module. 
 For deletion of letter we created function which removes letter from a given word.
 In switching the letter here we basically swaps the two letters of a word.
